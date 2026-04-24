@@ -12,7 +12,4 @@ Olá! 👋<br>Me chamo Luiza, sou estudante de Análise e Desenvolvimento de Sis
 ![](https://streak-stats.demolab.com/?user=Luizabarbosa6&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Luizabarbosa6&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Luizabarbosa6&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
